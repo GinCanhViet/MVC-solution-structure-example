@@ -1,6 +1,5 @@
 C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Entities\bin\Debug\GBlog.Entities.dll
 C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Entities\bin\Debug\GBlog.Entities.pdb
-C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Entities\obj\Debug\GBlog.Entities.csprojAssemblyReference.cache
 C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Entities\obj\Debug\GBlog.Entities.csproj.CoreCompileInputs.cache
 C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Entities\obj\Debug\GBlog.Entities.dll
 C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Entities\obj\Debug\GBlog.Entities.pdb
