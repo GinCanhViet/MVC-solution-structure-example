@@ -38,9 +38,9 @@ CREATE TABLE [dbo].[Post](
 	[Description] [ntext] NOT NULL,
 	[ImageUrl] [nvarchar](256) NULL,
 	[CreatedDate] [datetime] NULL,
-	[CreatedBy] [int] NULL,
+	[CreatedBy] [nvarchar](128) NULL,
 	[UpdatedDate] [datetime] NULL,
-	[UpdatedBy] [int] NULL,	
+	[UpdatedBy] [nvarchar](128) NULL,
 	[Published] [bit] NULL,
 	[CategoryId] [int] NOT NULL,
  CONSTRAINT [PK_Product] PRIMARY KEY CLUSTERED 
