@@ -10,7 +10,7 @@ CREATE TABLE [dbo].[Category](
 	[Id] [int] IDENTITY(1,1) NOT NULL,
 	[Name] [nvarchar](128) NOT NULL,
 	[ParentCategoryId] [int] NULL,
-	[ImagedURL] [nvarchar](400) NULL,
+	[ImageURL] [nvarchar](400) NULL,
 	[PageSize] [int] NULL,
 	[ShowOnHomePage] [bit] DEFAULT 1,
 	[IncludeInTopMenu] [bit] DEFAULT 1,
