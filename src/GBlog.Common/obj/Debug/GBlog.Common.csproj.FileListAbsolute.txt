@@ -1,5 +1,0 @@
-C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Common\bin\Debug\GBlog.Common.dll
-C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Common\bin\Debug\GBlog.Common.pdb
-C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Common\obj\Debug\GBlog.Common.csproj.CoreCompileInputs.cache
-C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Common\obj\Debug\GBlog.Common.dll
-C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Common\obj\Debug\GBlog.Common.pdb
