@@ -57,10 +57,11 @@
   <Import Condition="'$(SQLDBExtensionsRefPath)' == ''" Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
   <ItemGroup>
     <Folder Include="Properties" />
+    <Folder Include="StoredProcedure" />
+    <Folder Include="StoredProcedure\Post" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="README.md" />
-    <Build Include="CreateDB.sql" />
     <Build Include="CreateTable.sql" />
+    <Build Include="StoredProcedure\Post\GetAllBlogPostByPageIndex.sql" />
   </ItemGroup>
 </Project>

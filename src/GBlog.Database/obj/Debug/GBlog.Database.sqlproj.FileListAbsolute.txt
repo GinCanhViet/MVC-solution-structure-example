@@ -1,7 +1,0 @@
-C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Database\bin\Debug\GBlog.Database.dacpac
-C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Database\obj\Debug\Model.xml
-C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Database\obj\Debug\refactor.xml
-C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Database\obj\Debug\postdeploy.sql
-C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Database\obj\Debug\predeploy.sql
-C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Database\obj\Debug\GBlog.Database.dll
-C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Database\obj\Debug\GBlog.Database.pdb
