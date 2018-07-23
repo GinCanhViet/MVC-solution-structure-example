@@ -1,12 +1,5 @@
 ﻿namespace GBlog.Common
 {
-    public enum FormMode
-    {
-        Add,
-        Edit,
-        View,
-        Search
-    }
     public struct Priority
     {
         public const int Lowest = 0;
