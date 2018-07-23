@@ -58,4 +58,9 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="README.md" />
+    <Build Include="CreateDB.sql" />
+    <Build Include="CreateTable.sql" />
+  </ItemGroup>
 </Project>

@@ -45,5 +45,10 @@
   <ItemGroup>
     <None Include="README.md" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Components\" />
+    <Folder Include="Constants\" />
+    <Folder Include="Enums\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

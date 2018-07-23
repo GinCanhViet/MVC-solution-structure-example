@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GBlog.Entities", "GBlog.Ent
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GBlog.Data", "GBlog.Data\GBlog.Data.csproj", "{037F0185-A8CC-4818-9E6C-6E5329F1CC1C}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "GBlog.Database", "GBlog.Database\GBlog.Database.sqlproj", "{45510CA9-BE83-400E-AB2A-EA25DAA3AB4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,12 @@ Global
 		{037F0185-A8CC-4818-9E6C-6E5329F1CC1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{037F0185-A8CC-4818-9E6C-6E5329F1CC1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{037F0185-A8CC-4818-9E6C-6E5329F1CC1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45510CA9-BE83-400E-AB2A-EA25DAA3AB4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45510CA9-BE83-400E-AB2A-EA25DAA3AB4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45510CA9-BE83-400E-AB2A-EA25DAA3AB4B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{45510CA9-BE83-400E-AB2A-EA25DAA3AB4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45510CA9-BE83-400E-AB2A-EA25DAA3AB4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45510CA9-BE83-400E-AB2A-EA25DAA3AB4B}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
