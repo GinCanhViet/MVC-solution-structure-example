@@ -15,9 +15,9 @@ namespace GBlog.Data
         {
             _unitOfWork = unitOfWork;
         }
-        public Task<IEnumerable<Post>> GetAllPostByPageIndexAsync(int pageIndex, int pageSize)
+        public async Task<IEnumerable<Post>> GetAllPostByPageIndexAsync(int pageIndex, int pageSize)
         {
-            return _unitOfWork.PostRepository.GetAllPostByPageIndexAsync(pageIndex, pageSize);
+            return await _unitOfWork.PostRepository.GetAllPostByPageIndexAsync(pageIndex, pageSize);
         }
     }
 }
