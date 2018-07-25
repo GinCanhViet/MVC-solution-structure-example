@@ -1,4 +1,4 @@
-﻿using GBlog.Service.Data;
+﻿using GBlog.DAL.Service;
 using System.Threading.Tasks;
 using System.Web.Mvc;
 

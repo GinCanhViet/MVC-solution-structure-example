@@ -3,7 +3,7 @@ using GBlog.DAL.UnitOfWork;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace GBlog.Service.Data
+namespace GBlog.DAL.Service
 {
     public class PostService : IPostService
     {

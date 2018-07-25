@@ -1,4 +1,4 @@
-﻿using GBlog.Service.Data;
+﻿using GBlog.DAL.Service;
 using GBlog.DAL.Infrastructure;
 using GBlog.DAL.Repositories;
 using GBlog.DAL.UnitOfWork;

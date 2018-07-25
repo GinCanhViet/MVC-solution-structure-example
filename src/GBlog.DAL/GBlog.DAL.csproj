@@ -52,6 +52,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\IPostRepository.cs" />
     <Compile Include="Repositories\PostRepository.cs" />
+    <Compile Include="Service\IPostService.cs" />
+    <Compile Include="Service\PostService.cs" />
     <Compile Include="UnitOfWork\IUnitOfWork.cs" />
     <Compile Include="UnitOfWork\UnitOfWork.cs" />
   </ItemGroup>
@@ -68,6 +70,10 @@
     <ProjectReference Include="..\GBlog.Entities\GBlog.Entities.csproj">
       <Project>{31268a02-915c-43b4-8d99-ccb3d392e239}</Project>
       <Name>GBlog.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GBlog.Service\GBlog.Service.csproj">
+      <Project>{2ee98c61-8fce-421f-b5ed-89bec36a20e0}</Project>
+      <Name>GBlog.Service</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
