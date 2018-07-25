@@ -1,7 +1,7 @@
-﻿using GBlog.Data;
-using GBlog.Data.Infrastructure;
-using GBlog.Data.Repositories;
-using GBlog.Data.UnitOfWork;
+﻿using GBlog.Service.Data;
+using GBlog.DAL.Infrastructure;
+using GBlog.DAL.Repositories;
+using GBlog.DAL.UnitOfWork;
 using StructureMap;
 using System;
 using System.Web.Mvc;
@@ -29,10 +29,10 @@ namespace GBlog
     {
         public ControllerRegistry()
         {
-            Scan(scan => {
-                scan.TheCallingAssembly();
-                scan.WithDefaultConventions();
-            });
+            //Scan(scan => {
+            //    scan.TheCallingAssembly();
+            //    scan.WithDefaultConventions();
+            //});
             For<IUnitOfWork>().Use<UnitOfWork>();
             For<IConnectionFactory>().Use<ConnectionFactory>();            
             For<IPostService>().Use<PostService>();

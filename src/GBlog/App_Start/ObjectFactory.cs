@@ -1,5 +1,4 @@
-﻿using GBlog.Data.Repositories;
-using StructureMap;
+﻿using StructureMap;
 using System;
 using System.Threading;
 

@@ -1,0 +1,13 @@
+C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Data\obj\Debug\GBlog.Data.csprojAssemblyReference.cache
+C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Data\obj\Debug\GBlog.Data.csproj.CoreCompileInputs.cache
+C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Data\bin\Debug\GBlog.Data.dll
+C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Data\bin\Debug\GBlog.Data.pdb
+C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Data\bin\Debug\Dapper.dll
+C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Data\bin\Debug\GBlog.Common.dll
+C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Data\bin\Debug\GBlog.Entities.dll
+C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Data\bin\Debug\GBlog.Common.pdb
+C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Data\bin\Debug\GBlog.Entities.pdb
+C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Data\bin\Debug\Dapper.xml
+C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Data\obj\Debug\GBlog.Data.csproj.CopyComplete
+C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Data\obj\Debug\GBlog.Data.dll
+C:\Users\ginca\source\repos\MVC-solution-structure-example\src\GBlog.Data\obj\Debug\GBlog.Data.pdb

@@ -1,9 +1,5 @@
-﻿using GBlog.Data;
-using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using GBlog.Service.Data;
 using System.Threading.Tasks;
-using System.Web;
 using System.Web.Mvc;
 
 namespace GBlog.Controllers
